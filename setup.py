@@ -12,7 +12,7 @@ setup(
     description="Machine learning system for candidate-job compatibility prediction",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/candidate-fit-predictor",
+    url="https://github.com/Subhashk75/candidate_fit_predictor.git",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",

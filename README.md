@@ -16,7 +16,7 @@ A machine learning system that predicts how well a candidate matches a job descr
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Subhashk75/candidate_fit_predictor.git
 cd candidate-fit-predictor
 
 2 .Install dependencies:
