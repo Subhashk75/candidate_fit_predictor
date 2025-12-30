@@ -1,0 +1,6 @@
+[Name]
+[Summary/Objective]
+[Skills]
+[Experience]
+[Education]
+[Certifications] (optional)
